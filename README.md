@@ -1,3 +1,4 @@
+[![CI](https://github.com/nogibjj/Mini_Proj4_Fuyao_Li/actions/workflows/ci.yml/badge.svg)](https://github.com/nogibjj/Mini_Proj4_Fuyao_Li/actions/workflows/ci.yml)
 
 
 # Mini Project 4
@@ -14,4 +15,4 @@ I used five python versions: `3.7, 3.8, 3.9, 3.11, 3.12`. The main function incl
 
 
 ## Pass all the tests
-
+![pass](pass.png)
